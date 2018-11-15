@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome to Sebin Lee's Page
 
-You can use the [editor on GitHub](https://github.com/SebinLee/artbySebinComputerSys/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+아래의 있는 버튼들을 눌러 작품들을 확인해보세요.
